@@ -30,5 +30,12 @@
     <menu-store-1></menu-store-1>
 </div>
 <script src="/js/app.js"></script>
+<script>
+    alert(
+    `Ứng dụng hiển thị tốt nhất trên màn hình FullHD
+Vui lòng test trên màn hình FullHD để đạt hiệu quả nhất.
+
+                    Xin cảm ơn!`);
+</script>
 </body>
 </html>
