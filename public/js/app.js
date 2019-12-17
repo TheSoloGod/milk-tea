@@ -2094,6 +2094,9 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
+//
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: "Product",
   props: {
@@ -6704,7 +6707,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".headerText[data-v-1f42fb90] {\n  color: #1d2c53;\n  text-align: center;\n  font-size: 50px;\n  font-weight: bold;\n  margin-top: 50px;\n  margin-bottom: 50px;\n}", ""]);
+exports.push([module.i, ".headerText[data-v-1f42fb90] {\n  color: #1d2c53;\n  text-align: center;\n  font-size: 60px;\n  font-weight: bold;\n  margin-top: 50px;\n  margin-bottom: 50px;\n}", ""]);
 
 // exports
 
@@ -6742,7 +6745,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, ".productSection[data-v-7e94e6d4] {\n  margin-left: 5%;\n  margin-right: 5%;\n  margin-top: 50px;\n}\n.item[data-v-7e94e6d4] {\n  background-color: white;\n  width: 100%;\n  height: 400px;\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n}\n.itemContent[data-v-7e94e6d4] {\n  padding: 10%;\n}\n.itemId[data-v-7e94e6d4] {\n  color: #1d2c53;\n  font-size: 20px;\n}\n.itemName[data-v-7e94e6d4] {\n  color: #1d2c53;\n  font-size: 25px;\n  font-weight: bold;\n}\n.itemTopping[data-v-7e94e6d4] {\n  color: #1d2c53;\n  font-weight: bold;\n  font-size: 20px;\n}\n.itemToppingContent[data-v-7e94e6d4] {\n  height: 120px;\n  color: #1d2c53;\n  font-size: 20px;\n}\n.itemHr[data-v-7e94e6d4] {\n  text-align: center;\n  color: #1d2c53;\n  border: 2px solid #1d2c53;\n  border-radius: 2px;\n}\n.itemPrice[data-v-7e94e6d4] {\n  text-align: right;\n  padding-right: 10%;\n  color: #1d2c53;\n  font-size: 30px;\n  font-weight: bold;\n}", ""]);
+exports.push([module.i, ".productSection[data-v-7e94e6d4] {\n  margin-left: 5%;\n  margin-right: 5%;\n  margin-top: 50px;\n}\n.item[data-v-7e94e6d4] {\n  background-color: white;\n  width: 100%;\n  height: 400px;\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);\n}\n.itemContent[data-v-7e94e6d4] {\n  padding: 10%;\n}\n.itemId[data-v-7e94e6d4] {\n  color: #1d2c53;\n  font-size: 20px;\n}\n.itemName[data-v-7e94e6d4] {\n  color: #1d2c53;\n  font-size: 25px;\n  font-weight: bold;\n}\n.itemTopping[data-v-7e94e6d4] {\n  color: #1d2c53;\n  font-weight: bold;\n  font-size: 20px;\n}\n.itemToppingContent[data-v-7e94e6d4] {\n  height: 100px;\n  color: #1d2c53;\n  font-size: 20px;\n}\n.itemHr[data-v-7e94e6d4] {\n  text-align: center;\n  color: #1d2c53;\n  border: 2px solid #1d2c53;\n  border-radius: 2px;\n}\n.itemPrice[data-v-7e94e6d4] {\n  text-align: right;\n  padding-right: 10%;\n  color: #1d2c53;\n  font-size: 30px;\n  font-weight: bold;\n}\n.trending[data-v-7e94e6d4] {\n  color: white;\n  background-color: #1d2c53;\n  width: 30%;\n  text-align: center;\n}", ""]);
 
 // exports
 
@@ -38716,6 +38719,10 @@ var render = function() {
                 }),
                 0
               )
+            ]),
+            _vm._v(" "),
+            _c("div", { staticClass: "trending" }, [
+              _vm._v("\n                    Trending\n                ")
             ]),
             _vm._v(" "),
             _c("div", { staticClass: "itemPrice" }, [
