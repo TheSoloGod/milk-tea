@@ -13,6 +13,9 @@
                             <span v-for="topping in item.toppings">{{ topping }} | </span>
                         </div>
                     </div>
+                    <div class="trending">
+                        Trending
+                    </div>
                     <div class="itemPrice">${{ item.price }}</div>
                 </div>
             </div>
@@ -67,7 +70,7 @@
     }
 
     .itemToppingContent {
-        height: 120px;
+        height: 100px;
         color: #1d2c53;
         font-size: 20px;
     }
@@ -85,5 +88,12 @@
         color: #1d2c53;
         font-size: 30px;
         font-weight: bold;
+    }
+
+    .trending {
+        color: white;
+        background-color: #1d2c53;
+        width: 30%;
+        text-align: center;
     }
 </style>

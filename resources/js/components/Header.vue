@@ -16,7 +16,7 @@
     .headerText {
         color: #1d2c53;
         text-align: center;
-        font-size: 50px;
+        font-size: 60px;
         font-weight: bold;
         margin-top: 50px;
         margin-bottom: 50px;
