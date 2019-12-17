@@ -157,7 +157,7 @@
     .chooseTopping {
         margin-top: 30px;
         width: 100%;
-        height: 180px;
+        height: 150px;
         background-color: white;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
@@ -186,8 +186,8 @@
         user-select: none;
         margin-left: 10%;
         line-height: 25px;
-        margin-top: 15px;
-        pardding: 10px
+        margin-top: 5px;
+        pardding: 5px
     }
 
     /* Hide the browser's default checkbox */

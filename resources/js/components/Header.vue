@@ -18,7 +18,7 @@
         text-align: center;
         font-size: 60px;
         font-weight: bold;
-        margin-top: 50px;
-        margin-bottom: 50px;
+        margin-top: 30px;
+        margin-bottom: 30px;
     }
 </style>

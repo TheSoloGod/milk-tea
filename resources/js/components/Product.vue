@@ -44,7 +44,7 @@
     .item {
         background-color: white;
         width: 100%;
-        height: 400px;
+        height: 320px;
         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     }
 
@@ -70,7 +70,7 @@
     }
 
     .itemToppingContent {
-        height: 100px;
+        height: 20px;
         color: #1d2c53;
         font-size: 20px;
     }
